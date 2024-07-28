@@ -3,4 +3,4 @@
 \src\sources 存放主要文件\
 \src\constrs 存放约束文件\
 insert_sort.cpp 为插入排序的C语言实现\
-insert_sort.asm 为插入排序的MIPS实现\
+insert_sort.asm 为插入排序的MIPS实现
